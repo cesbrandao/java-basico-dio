@@ -1,6 +1,6 @@
 package edu.carlosbrandao.operadores;
 
-public class logicos {
+public class Logicos {
 
     public static void main(String[] args) {
          

@@ -1,6 +1,6 @@
 package edu.carlosbrandao.operadores;
 
-public class ternarios {
+public class Ternarios {
     
     public static void main(String[] args) {
         

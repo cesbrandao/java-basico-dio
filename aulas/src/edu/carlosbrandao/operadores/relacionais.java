@@ -1,6 +1,6 @@
 package edu.carlosbrandao.operadores;
 
-public class relacionais {
+public class Relacionais {
     public static void main(String[] args) {
         
         int numero1 = 1;

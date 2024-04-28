@@ -1,6 +1,6 @@
 package edu.carlosbrandao.operadores;
 
-public class unarios {
+public class Unarios {
 
     public static void main(String[] args) {
         

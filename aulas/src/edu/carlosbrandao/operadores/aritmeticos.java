@@ -1,6 +1,6 @@
 package edu.carlosbrandao.operadores;
 
-public class aritmeticos {
+public class Aritmeticos {
     
     public static void main(String[] args) {
         
