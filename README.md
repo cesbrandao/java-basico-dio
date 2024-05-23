@@ -13,7 +13,7 @@ Repositório para exemplos do curso de Java básico pela DIO.
 * Java Doc
 * Terminal e Argumentos
 
-As atividades sobre o item Terminal e Argumentos correspondentes ao uso do terminal foram realizadas no arquivo `src\App.java`, enquanto no diretório `terminalargumentos` está a atividade correspondente à ferramenta `Scanner`.
+As atividades sobre o item Terminal e Argumentos correspondentes ao uso do terminal foram realizadas no arquivo `src\App.java`, enquanto no diretório `src\edu\carlosbrandao\terminalargumentos` está a atividade correspondente à ferramenta `Scanner`.
 
 >*Para compilar um arquivo `.java` através do terminal deve-se abrir o prompt de comando a partir do diretório do arquivo e executar o *script* `javac NomeArquivo.java`.* 
 
