@@ -38,7 +38,6 @@ public class SmartTv {
         } else {
             System.out.println("Canal não existe.");
         }
-        
     }
 
     public void aumentarVolume() {

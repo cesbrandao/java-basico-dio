@@ -1,0 +1,83 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "EntradaDados",
+            "request": "launch",
+            "mainClass": "edu.carlosbrandao.terminalargumentos.EntradaDados",
+            "projectName": "java-basico-dio_11b67407"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "args": [
+                "Carlos",
+                "Silva",
+                "27",
+                "1.69"
+            ],
+            "projectName": "java-basico-dio_11b67407"
+        },
+        {
+            "type": "java",
+            "name": "User",
+            "request": "launch",
+            "mainClass": "edu.carlosbrandao.metodos.User",
+            "projectName": "java-basico-dio_11b67407"
+        },
+        {
+            "type": "java",
+            "name": "Aritmeticos",
+            "request": "launch",
+            "mainClass": "edu.carlosbrandao.operadores.Aritmeticos",
+            "projectName": "java-basico-dio_11b67407"
+        },
+        {
+            "type": "java",
+            "name": "Logicos",
+            "request": "launch",
+            "mainClass": "edu.carlosbrandao.operadores.Logicos",
+            "projectName": "java-basico-dio_11b67407"
+        },
+        {
+            "type": "java",
+            "name": "Relacionais",
+            "request": "launch",
+            "mainClass": "edu.carlosbrandao.operadores.Relacionais",
+            "projectName": "java-basico-dio_11b67407"
+        },
+        {
+            "type": "java",
+            "name": "Ternarios",
+            "request": "launch",
+            "mainClass": "edu.carlosbrandao.operadores.Ternarios",
+            "projectName": "java-basico-dio_11b67407"
+        },
+        {
+            "type": "java",
+            "name": "Unarios",
+            "request": "launch",
+            "mainClass": "edu.carlosbrandao.operadores.Unarios",
+            "projectName": "java-basico-dio_11b67407"
+        },
+        {
+            "type": "java",
+            "name": "TiposVariaveis",
+            "request": "launch",
+            "mainClass": "edu.carlosbrandao.tiposvariaveis.TiposVariaveis",
+            "projectName": "java-basico-dio_11b67407"
+        }
+    ]
+}
