@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SwitchCase",
+            "request": "launch",
+            "mainClass": "edu.carlosbrandao.condicionais.SwitchCase",
+            "projectName": "java-basico-dio_11b67407"
+        },
+        {
+            "type": "java",
+            "name": "CondicionalTernario",
+            "request": "launch",
+            "mainClass": "edu.carlosbrandao.condicionais.CondicionalTernario",
+            "projectName": "java-basico-dio_11b67407"
+        },
+        {
+            "type": "java",
+            "name": "IfElse",
+            "request": "launch",
+            "mainClass": "edu.carlosbrandao.condicionais.IfElse",
+            "projectName": "java-basico-dio_11b67407"
+        },
+        {
+            "type": "java",
             "name": "EntradaDados",
             "request": "launch",
             "mainClass": "edu.carlosbrandao.terminalargumentos.EntradaDados",

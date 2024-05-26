@@ -2,7 +2,11 @@
 
 Repositório para exemplos do curso de Java básico pela DIO.
 
+>Material de apoio: [Java Básico](https://glysns.gitbook.io/java-basico)
+
 ## Conteúdo
+
+### Sintaxe
 
 * Anatomia de Classes
 * Tipos e Variáveis
@@ -23,4 +27,8 @@ Para executar um arquivo `.class` através do terminal deve-se abrir o prompt de
 
 É possível setar diretamente na IDE os argumentos da classe. No arquivo `.vscode\launch.json` é possível realizar a configuração para os argumentos esperados.
 
->Material de apoio: [Java Básico](https://glysns.gitbook.io/java-basico)
+### Estruturas
+
+* Condicionais: `if-else` `switch-case`
+* Repetição: `for` `while` `do-while`
+* Exceções: `try-catch-finally` `throw`
