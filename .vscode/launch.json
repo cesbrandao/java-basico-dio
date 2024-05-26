@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DoWhile",
+            "request": "launch",
+            "mainClass": "edu.carlosbrandao.loop.DoWhile",
+            "projectName": "java-basico-dio_11b67407"
+        },
+        {
+            "type": "java",
+            "name": "While",
+            "request": "launch",
+            "mainClass": "edu.carlosbrandao.loop.While",
+            "projectName": "java-basico-dio_11b67407"
+        },
+        {
+            "type": "java",
+            "name": "ForComBreakContinue",
+            "request": "launch",
+            "mainClass": "edu.carlosbrandao.loop.ForComBreakContinue",
+            "projectName": "java-basico-dio_11b67407"
+        },
+        {
+            "type": "java",
+            "name": "ForEach",
+            "request": "launch",
+            "mainClass": "edu.carlosbrandao.loop.ForEach",
+            "projectName": "java-basico-dio_11b67407"
+        },
+        {
+            "type": "java",
+            "name": "ForComArray",
+            "request": "launch",
+            "mainClass": "edu.carlosbrandao.loop.ForComArray",
+            "projectName": "java-basico-dio_11b67407"
+        },
+        {
+            "type": "java",
             "name": "SwitchCase",
             "request": "launch",
             "mainClass": "edu.carlosbrandao.condicionais.SwitchCase",
