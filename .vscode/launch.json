@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FormatarCep",
+            "request": "launch",
+            "mainClass": "edu.carlosbrandao.exception.criarexception.FormatarCep",
+            "projectName": "java-basico-dio_11b67407"
+        },
+        {
+            "type": "java",
+            "name": "TryCatch",
+            "request": "launch",
+            "mainClass": "edu.carlosbrandao.exception.TryCatch",
+            "projectName": "java-basico-dio_11b67407"
+        },
+        {
+            "type": "java",
             "name": "DoWhile",
             "request": "launch",
             "mainClass": "edu.carlosbrandao.loop.DoWhile",
